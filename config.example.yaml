@@ -1,0 +1,15 @@
+# bizops configuration
+# Copy this file to config.yaml and fill in your company details.
+# Run bash setup.sh after editing to regenerate skills.
+
+company: Your Company Name
+industry: Your Industry
+description: A one-sentence description of what your company does and who it serves.
+context_path: ~/bizops-context
+competitors: Competitor One, Competitor Two, Competitor Three
+
+# Example:
+#
+# company: Acme Corp
+# industry: SaaS
+# description: A B2B project management platform serving mid-market engineering teams across North America.

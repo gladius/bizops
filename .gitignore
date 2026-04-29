@@ -1,0 +1,8 @@
+# User config — contains company-specific details, not committed
+config.yaml
+
+# Built binary and bun artifacts — rebuilt by setup.sh
+bin/xlsx2text
+bin/node_modules/
+bin/bun.lockb
+
